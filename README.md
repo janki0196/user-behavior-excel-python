@@ -1,4 +1,5 @@
 **Comparing Music Preferences: Springfield vs. Shelbyville 🎶**
+
 **Overview 📊**
 In the world of data, decisions are only as good as the insights behind them. Businesses thrive when they question assumptions and validate them with data. This project dives into user behavior data from Yandex.Music to uncover patterns and answer key hypotheses about music preferences in two cities: Springfield and Shelbyville.
 
